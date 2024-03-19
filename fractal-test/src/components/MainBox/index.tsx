@@ -14,6 +14,7 @@ const MainBox = (props: any) => {
         height={'auto'}
         overflow={'hidden'}
         w='60%'
+        borderRadius='24px'
         >
             {children}
         </Box>
